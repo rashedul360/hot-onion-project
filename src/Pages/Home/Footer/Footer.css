@@ -1,0 +1,17 @@
+.social-links i {
+  margin: 10px;
+  font-size: 25px;
+  cursor: pointer;
+}
+.fa-instagram-square {
+  color: brown;
+}
+.fa-youtube {
+  color: red;
+}
+.fa-google {
+  color: yellow;
+}
+.fa-facebook {
+  color: cornflowerblue;
+}

@@ -1,0 +1,10 @@
+.intro-Container {
+  display: flex;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://github.com/ProgrammingHero1/hot-onion-restaurent/blob/master/bannerbackground.png?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
